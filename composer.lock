@@ -647,12 +647,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/jhonesgoncal/code-facebook-bot-sdk.git",
-                "reference": "cd941a71e8e5b56e91c17a19cafbf9e05d909aaa"
+                "reference": "cc20f7783fcf178ea3a854eb49c899076a7bff38"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jhonesgoncal/code-facebook-bot-sdk/zipball/cd941a71e8e5b56e91c17a19cafbf9e05d909aaa",
-                "reference": "cd941a71e8e5b56e91c17a19cafbf9e05d909aaa",
+                "url": "https://api.github.com/repos/jhonesgoncal/code-facebook-bot-sdk/zipball/cc20f7783fcf178ea3a854eb49c899076a7bff38",
+                "reference": "cc20f7783fcf178ea3a854eb49c899076a7bff38",
                 "shasum": ""
             },
             "require": {
@@ -676,7 +676,7 @@
                     "email": "jhones.goncalves@outlook.com"
                 }
             ],
-            "time": "2018-01-01T20:34:47+00:00"
+            "time": "2018-01-19T15:20:30+00:00"
         },
         {
             "name": "laravel/framework",
